@@ -6,8 +6,8 @@ export function HeaderButton() {
       <span className={classes.icon}>
         <CardIcon />
       </span>
-      <span>Your Card</span>
-      <span></span>
+      <span>You Cart</span>
+      <span className={classes.badge}>3</span>
     </button>
   );
 }

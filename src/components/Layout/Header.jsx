@@ -1,6 +1,8 @@
 import mealsImg from "../../assets/meals.jpg";
 import classes from "./Header.module.css";
 import { HeaderButton } from "./HeaderButton";
+
+
 export function Header() {
   return (
     <>
